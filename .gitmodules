@@ -1,0 +1,3 @@
+[submodule "apigatewayservices"]
+	path = apigatewayservices
+	url = https://github.com/Haejeong079/Study-msa.git
